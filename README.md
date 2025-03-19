@@ -10,9 +10,9 @@ patients.
 ## Dataset:  
 A dataset containing various health metrics and
 demographic information of individuals, with the target variable being the presence or absence
-of diabetes. The main tasks include of the followings:
-Exploratory Data Analysis (EDA):  
+of diabetes. The main tasks include of the followings:  
   
+## Exploratory Data Analysis (EDA):  
 ● Perform thorough exploratory data analysis to understand the distribution of
 features, identify correlations, and visualize patterns in the dataset.  
 ● Handle missing values, outliers, and perform necessary data preprocessing steps.  
